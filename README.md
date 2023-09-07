@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a first-year CSE student specialising in Artificial Intelligence and Machine Learning. I am currently working on full-stack web development.. 
+Highly motivated and enthusiastic Computer Science student with a strong interest in Artificial Intelligence and Machine Learning. Seeking opportunities to apply my skills and knowledge to develop innovative solutions and drive advancements in the field. Passionate about problem-solving and committed to continuous learning and professional development.
 
 
 ## 🌐 Socials:
